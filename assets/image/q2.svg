@@ -1,0 +1,20 @@
+ <svg
+            class="q2 position-absolute"
+            xmlns="http://www.w3.org/2000/svg"
+            width="300"
+            height="186"
+            viewBox="0 0 300 186"
+          >
+            <text
+              transform="translate(0 150)"
+              fill="none"
+              stroke="#322d50"
+              stroke-width="0.9"
+              font-size="170"
+              font-family="GT America Expanded"
+              font-weight="700"
+            >
+              <tspan x="0" y="0">Q</tspan>
+              <tspan y="-0.67em" font-size="0.58em">2</tspan>
+            </text>
+          </svg>
